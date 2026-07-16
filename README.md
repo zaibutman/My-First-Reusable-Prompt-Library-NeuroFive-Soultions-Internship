@@ -128,14 +128,12 @@ Build-Your-First-Reusable-Prompt-Library/
 │   └── prompt_05_ai_portfolio.md
 │
 ├── outputs/
-│   ├── output_01.md
-│   ├── output_02.md
-│   ├── output_03.md
-│   ├── output_04.md
-│   └── output_05.md
-│
-└── assets/
-    └── screenshots/
+    ├── output_01.md
+    ├── output_02.md
+    ├── output_03.md
+    ├── output_04.md
+    └── output_05.md
+
 ```
 
 ---
