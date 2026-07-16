@@ -1,0 +1,47 @@
+# =====================================
+# Build Your First Reusable Prompt Library
+# .gitignore
+# =====================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Environment Variables
+.env
+.env.*
